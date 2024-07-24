@@ -8,7 +8,7 @@ Make sure you have the following software installed:
 ## Setup Instructions
 
 1. **Clone the repository** (if using GitHub):
-    
+    https://github.com/melikaamm/React-Projects
 
 2. **Install dependencies**:
     ```sh
